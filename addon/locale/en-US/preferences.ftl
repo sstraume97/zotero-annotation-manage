@@ -32,7 +32,7 @@ pref-sort-2 =
     .label = Fixed Tags (Fixed sort) Recent tags (sorted by time of use)
 pref-sort-3 = 
     .label = Fixed Tags (Fixed sort) Tags used in pdf (sorted alphabetically) Most Recent tags (sorted by time of use)
-pref-sort-rect-n =最近N条标签
+pref-sort-rect-n =Recent N tags
 
 pref-multipleTags = 
     .label = multiple tags
